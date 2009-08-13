@@ -7,7 +7,7 @@ Group:          Development/Other
 URL:            http://sourceforge.net/projects/savonet/files/
 Source0:        http://downloads.sourceforge.net/project/savonet/ocaml-alsa/%{version}/ocaml-alsa-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
-BuildRequires:  libalsa2-devel
+BuildRequires:  libalsa-devel
 BuildRequires:  ocaml-findlib
 
 %description
