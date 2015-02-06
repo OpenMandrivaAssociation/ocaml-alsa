@@ -1,6 +1,6 @@
 Name:           ocaml-alsa
 Version:        0.2.0
-Release:        3
+Release:        4
 Summary:        OCaml bindings for the ALSA library
 License:        GPL
 Group:          Development/Other
