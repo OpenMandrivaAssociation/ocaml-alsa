@@ -4,7 +4,7 @@ Release:        4
 Summary:        OCaml bindings for the ALSA library
 License:        GPL
 Group:          Development/Other
-URL:            http://sourceforge.net/projects/savonet/files/
+URL:            https://sourceforge.net/projects/savonet/files/
 Source0:        http://downloads.sourceforge.net/project/savonet/ocaml-alsa/%{version}/ocaml-alsa-%{version}.tar.gz
 BuildRequires:  pkgconfig(alsa)
 BuildRequires:  ocaml
