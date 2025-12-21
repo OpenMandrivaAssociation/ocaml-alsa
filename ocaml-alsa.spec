@@ -6,6 +6,11 @@ License:        GPL
 Group:          Development/Other
 URL:            https://sourceforge.net/projects/savonet/files/
 Source0:        http://downloads.sourceforge.net/project/savonet/ocaml-alsa/%{version}/ocaml-alsa-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  pkgconfig(alsa)
 BuildRequires:  ocaml
 BuildRequires:  ocaml-findlib
